@@ -2,10 +2,10 @@
 type: methodology
 domain: [meta, reasoning, methodology]
 confidence: 0.83
-sources: 1
+sources: 2
 evidence_weight: 0.7601918465227818
 entities: [Qualcomm, Apple, MCP, Anthropic, Cursor, GitHub]
-refs: [kb/meta/reasoning/6dfb5d1e.md, kb/meta/reasoning/36f45175.md, kb/meta/reasoning/44ab6b4a.md, kb/meta/reasoning/9aab8dc8.md]
+refs: [kb/meta/reasoning/6dfb5d1e.md, kb/meta/reasoning/36f45175.md, kb/meta/reasoning/44ab6b4a.md, kb/meta/reasoning/9aab8dc8.md, kb/technology/ai/products/coding/github-meta-layer-strategy.md, kb/meta/reasoning/9d29a1dc.md]
 ---
 # Reasoning process: unified competitive layer analysis framework for AI market platforms
 
