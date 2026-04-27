@@ -1,10 +1,10 @@
 ---
 type: methodology
-domain: [meta, reasoning, methodology]
+domain: [meta, reasoning, methodology, protocol-strategy]
 confidence: 0.8
 sources: 1
-entities: [MCP, Anthropic, Cursor, Pigment]
-refs: [kb/technology/ai/products/coding/7581693a.md]
+entities: [MCP, Anthropic, Cursor, Pigment, Google, Mistral]
+refs: [kb/technology/ai/products/coding/7581693a.md, kb/meta/reasoning/790e258a.md]
 ---
 # Reasoning process: protocol adoption tipping point as integration layer lock-in signal
 
