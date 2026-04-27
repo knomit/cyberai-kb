@@ -1,7 +1,7 @@
 ---
 type: hypothesis
 domain: [AI coding, developer tools, agentic AI, AI market]
-confidence: 0.69
+confidence: 0.71
 sources: 1
 entities: [GitHub, Mario Rodriguez, Microsoft, Cursor, Claude Code, OpenAI]
 refs: [kb/technology/ai/products/coding/66ca06c0.md]
