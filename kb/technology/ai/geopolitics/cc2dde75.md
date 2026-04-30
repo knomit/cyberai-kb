@@ -1,7 +1,7 @@
 ---
 type: hypothesis
 domain: [AI geopolitics, AI infrastructure, chip supply chain, China AI]
-confidence: 0.69
+confidence: 0.7
 sources: 0
 entities: [DeepSeek, Huawei, Nvidia, AMD, China]
 refs: []
