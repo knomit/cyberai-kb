@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [AI infrastructure, cloud computing, AI agents]
-confidence: 0.93
+confidence: 0.94
 sources: 0
 entities: [OpenAI, Amazon, AWS, Microsoft, Amazon Bedrock, Trainium, Frontier]
 refs: [https://mail.google.com/mail/u/0/#inbox/19d30ae3d6e267b9]
