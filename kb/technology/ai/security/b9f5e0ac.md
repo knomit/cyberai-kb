@@ -1,7 +1,7 @@
 ---
 type: synthesis
 domain: [AI security, supply chain, developer tools, vulnerabilities]
-confidence: 0.91
+confidence: 0.93
 sources: 1
 evidence_weight: 0.6402877697841726
 entities: [Google, Gemini CLI, LiteLLM, GitHub, Cursor, Hugging Face, LeRobot, Microsoft Entra ID, DPRK, Claude Opus, SAP]
