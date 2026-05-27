@@ -4,7 +4,7 @@ domain: [ai-governance, policy, religion, ethics]
 confidence: 0.95
 sources: 1
 entities: [Pope Leo XIV, Leo XIII, Christopher Olah, Anthropic, Vatican]
-refs: []
+refs: ['https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html', 'https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/', 'https://en.wikipedia.org/wiki/Magnifica_humanitas']
 ---
 # Pope Leo XIV's 'Magnifica Humanitas': most comprehensive AI governance framework to date (May 2026)
 
