@@ -2,10 +2,10 @@
 type: observation
 domain: [cybersecurity, supply-chain, ai]
 confidence: 0.93
-sources: 1
-entities: [Hugging Face, OpenAI, Privacy Filter]
-refs: ['https://mail.google.com/mail/u/0/#search/from%3A(hacker+news)+is%3Aunread/FMfcgzQgLjZmZzHvRnRKJwVGjDLHfWxG']
+sources: 2
+entities: [Hugging Face, OpenAI, Open-OSS/privacy-filter, openai/privacy-filter, Privacy Filter]
+refs: ['https://thehackernews.com/2026/05/weekly-recap-exchange-0day-npm-worm.html', 'https://mail.google.com/mail/u/0/#search/from%3A(hacker+news)+is%3Aunread/FMfcgzQgLjZmZzHvRnRKJwVGjDLHfWxG', kb/technology/cybersecurity/threats/supply-chain/0e2fef7a.md]
 ---
-# Fake OpenAI Privacy Filter Repo Hits #1 Trending on Hugging Face, 244K Downloads, Rust Infostealer (May 2026)
+# Fake Hugging Face Repository Delivers Rust Stealer by Impersonating OpenAI's Privacy Filter Model
 
-A malicious Hugging Face repository impersonated OpenAI's Privacy Filter open-weight model and reached the #1 trending spot on the platform, accumulating 244,000 downloads. The repo delivered a Rust-based information stealer to Windows users. Highlights the risk of AI model supply chain attacks via model-sharing platforms where trending mechanics can be gamed.
+A malicious Hugging Face repository named 'Open-OSS/privacy-filter' reached the platform's trending list by impersonating OpenAI's legitimate 'openai/privacy-filter' open-weight model. The fake repo copied the model card description verbatim but modified the run instructions to execute a Rust-based information stealer on Windows (via start.bat) or Linux/macOS (via python loader.py). Hugging Face subsequently disabled access to the malicious model. The incident highlights AI model registries as an emerging software supply chain attack surface: unlike npm packages, model registries lack mature publisher verification, provenance checking, and automated malware scanning. Enterprises consuming AI models should verify publisher identity, check model card provenance, and scan for unexpected binary downloads before deployment.
