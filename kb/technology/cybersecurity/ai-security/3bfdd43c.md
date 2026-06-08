@@ -1,7 +1,7 @@
 ---
 type: hypothesis
 domain: [cybersecurity, ai, vulnerability]
-confidence: 0.54
+confidence: 0.56
 sources: 5
 entities: [Mandiant, OpenAI, Daybreak, Microsoft, MDASH, Mozilla, Anthropic Mythos, Synthesia]
 refs: [kb/technology/cybersecurity/ai-security/synthesis/4258b97c.md, kb/technology/cybersecurity/research/a9ef872d.md, kb/technology/cybersecurity/ai-security/tools/dd7bf43f.md, kb/technology/cybersecurity/ai-security/tools/9f9d6fe2.md, kb/technology/cybersecurity/patches/microsoft/4cb9daad.md, kb/technology/cybersecurity/ai-code-security/a32c7c7a.md, 'https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html', 'https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html']
