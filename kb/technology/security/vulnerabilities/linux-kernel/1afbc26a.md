@@ -1,11 +1,11 @@
 ---
 type: observation
-domain: [cybersecurity, vulnerability, privilege-escalation]
+domain: [security, vulnerability, linux, cybersecurity, privilege-escalation]
 confidence: 0.85
 sources: 0
-entities: [CVE-2026-43503, DirtyClone, DirtyFrag, Linux kernel, JFrog Security Research]
-refs: ['https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html']
+entities: [DirtyClone, CVE-2026-43503, Dirty Frag, JFrog, Linux kernel, DirtyFrag, JFrog Security Research]
+refs: ['https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html', kb/technology/security/vulnerabilities/linux-kernel/1afbc26a.md]
 ---
-# CVE-2026-43503 'DirtyClone': Linux kernel root escalation via cloned network packets
+# DirtyClone (CVE-2026-43503) Linux kernel flaw enables local root
 
-DirtyClone (CVE-2026-43503, CVSS 8.8) is a Linux kernel privilege escalation in the 'DirtyFrag' family. JFrog Security Research published a working exploit walkthrough on June 25, 2026 — the first public demonstration for this variant. When the kernel internally copies a network packet, two helper functions drop a safety flag marking the packet memory as shared with an on-disk file; that missing flag is the vulnerability. An attacker loads a privileged binary (e.g. /usr/bin/su) into memory, wires those pages into a network packet, forces the kernel to clone it through an attacker-controlled IPsec tunnel, and the decryption step overwrites the binary's login checks to grant root. The fix landed in mainline Linux on May 21, 2026.
+Researchers (JFrog) detailed DirtyClone (CVE-2026-43503), a new variant of the Dirty Frag Linux kernel flaw that lets local users gain root privileges via cloned packets. It works on Debian, Ubuntu, and Fedora with default namespace configurations and requires the CAP_NET_ADMIN capability, frequently obtainable via unprivileged user namespaces. It poses the highest risk to multi-tenant cloud environments.
