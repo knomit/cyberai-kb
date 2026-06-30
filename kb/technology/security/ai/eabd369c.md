@@ -4,8 +4,9 @@ domain: [security, ai, offensive-security]
 confidence: 0.7
 sources: 1
 evidence_weight: 0.4117647058823529
+origin: distilled
 entities: [Reco, ShinyHunters, Claude Code, Meta, Salesforce Experience Cloud]
-refs: [kb/technology/security/ai-agents/7c5a7a15.md, kb/technology/security/ai/offensive-ai/49912dcd.md]
+refs: [kb/technology/security/ai/offensive-ai/49912dcd.md]
 ---
 # Offensive AI maturing from prompt-injection to autonomous exploitation agents (mid-2026)
 
