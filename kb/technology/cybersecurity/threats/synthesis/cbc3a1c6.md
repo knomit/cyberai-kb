@@ -4,8 +4,9 @@ domain: [cybersecurity, ai-tools, supply-chain, threat-intelligence]
 confidence: 0.87
 sources: 1
 evidence_weight: 0.7389033942558747
+origin: distilled
 entities: [Langflow, MuddyWater, Megalodon, GitHub Actions, CISA]
-refs: [kb/technology/cybersecurity/vulnerabilities/ai-tools/a6daccb7.md, kb/technology/cybersecurity/threats/supply-chain/01bddf68.md, kb/technology/cybersecurity/identity/synthesis/c3d4e5f6.md]
+refs: [kb/technology/cybersecurity/vulnerabilities/ai-tools/a6daccb7.md, kb/technology/cybersecurity/threats/supply-chain/01bddf68.md]
 ---
 # AI Developer Toolchain as Converging High-Value Attack Surface
 

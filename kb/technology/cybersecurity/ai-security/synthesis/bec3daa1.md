@@ -4,8 +4,9 @@ domain: [cybersecurity, ai, risk]
 confidence: 0.9
 sources: 1
 evidence_weight: 0.6503496503496503
+origin: distilled
 entities: [Microsoft, MDASH, OpenAI, Daybreak, Anthropic Mythos, Mozilla, Ollama, PraisonAI, Cline, Hugging Face]
-refs: [kb/technology/cybersecurity/ai-security/synthesis/4258b97c.md, kb/technology/cybersecurity/ai-security/synthesis/ad2a01d7.md]
+refs: [kb/technology/cybersecurity/ai-security/synthesis/ad2a01d7.md]
 ---
 # The AI Security Paradox: AI Simultaneously Defends and Expands the Attack Surface (May 2026)
 
