@@ -4,8 +4,9 @@ domain: [AI security, supply chain, developer tools, vulnerabilities]
 confidence: 0.95
 sources: 1
 evidence_weight: 0.6402877697841726
+origin: distilled
 entities: [Google, Gemini CLI, LiteLLM, GitHub, Cursor, Hugging Face, LeRobot, Microsoft Entra ID, DPRK, Claude Opus, SAP]
-refs: [kb/technology/ai/security/vulnerabilities/6e299c98.md, kb/technology/ai/security/vulnerabilities/efe2f9c3.md, kb/technology/ai/security/vulnerabilities/62c7e524.md, kb/technology/ai/security/vulnerabilities/1b09cc1d.md, kb/technology/ai/security/vulnerabilities/5d0556b8.md, kb/technology/ai/security/identity/496d69f9.md, kb/technology/ai/security/supply-chain/bf91c7f0.md, kb/technology/ai/security/supply-chain/f9a8ef80.md, kb/technology/ai/security/e7dbcfa7.md, kb/technology/ai/security/33aa6ed0.md, kb/technology/ai/society/workforce/a79f3cfa.md, knomit/technology/ai/security/dc28a59e.md]
+refs: [kb/technology/ai/security/vulnerabilities/6e299c98.md, kb/technology/ai/security/vulnerabilities/efe2f9c3.md, 'https://thehackernews.com', kb/technology/ai/security/vulnerabilities/1b09cc1d.md, kb/technology/ai/security/vulnerabilities/5d0556b8.md, kb/technology/ai/security/identity/496d69f9.md, kb/technology/ai/security/supply-chain/bf91c7f0.md, kb/technology/ai/security/supply-chain/f9a8ef80.md, kb/technology/ai/security/e7dbcfa7.md, kb/technology/ai/security/33aa6ed0.md, kb/technology/ai/society/workforce/a79f3cfa.md, knomit/technology/ai/security/dc28a59e.md]
 ---
 # AI developer toolchain as the dominant new attack surface: every major AI infrastructure component compromised in Q1-Q2 2026
 

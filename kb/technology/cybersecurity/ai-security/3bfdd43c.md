@@ -4,7 +4,7 @@ domain: [cybersecurity, ai, vulnerability]
 confidence: 0.57
 sources: 5
 entities: [Mandiant, OpenAI, Daybreak, Microsoft, MDASH, Mozilla, Anthropic Mythos, Synthesia]
-refs: [kb/technology/cybersecurity/ai-security/synthesis/4258b97c.md, kb/technology/cybersecurity/research/a9ef872d.md, kb/technology/cybersecurity/ai-security/tools/dd7bf43f.md, kb/technology/cybersecurity/ai-security/tools/9f9d6fe2.md, kb/technology/cybersecurity/patches/microsoft/4cb9daad.md, kb/technology/cybersecurity/ai-code-security/a32c7c7a.md, 'https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html', 'https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html', kb/meta/reasoning/d84d0e26.md, kb/technology/security/ai/autonomous-malware/431e2a75.md, kb/technology/security/ai/offensive-capability/061d393b.md, kb/technology/security/ai/offensive-convergence-2026.md]
+refs: [kb/technology/cybersecurity/research/a9ef872d.md, 'https://mail.google.com/mail/u/0/#search/from%3A(hacker+news)+is%3Aunread/FMfcgzQgLjbvcdzwcXXkzxbHXXThVcQd', kb/technology/cybersecurity/ai-security/tools/9f9d6fe2.md, kb/technology/cybersecurity/patches/microsoft/4cb9daad.md, kb/technology/cybersecurity/ai-code-security/a32c7c7a.md, 'https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html', 'https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html', kb/meta/reasoning/d84d0e26.md, kb/technology/security/ai/autonomous-malware/431e2a75.md, kb/technology/security/ai/offensive-capability/061d393b.md]
 ---
 # Hypothesis: AI-Powered Defense Will Restore Positive Mean Time to Exploit by Mandiant M-Trends 2028
 

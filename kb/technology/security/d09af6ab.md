@@ -3,8 +3,9 @@ type: synthesis
 domain: [cybersecurity, threat landscape]
 confidence: 0.7
 sources: 1
+origin: distilled
 entities: [Fortinet, AryStinger, INTERPOL, CSIS, Wordfence]
-refs: [kb/technology/security/threats/fortibleed/abe58c55.md, kb/technology/security/malware/arystinger/bffc3f36.md, kb/technology/security/vulnerabilities/wordpress-gravity-smtp/01d1b95b.md, kb/technology/security/threats/regional-asia-pacific/e69d81b0.md, kb/technology/security/law-enforcement/csis-warrant/331f5438.md]
+refs: ['https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html', kb/technology/security/malware/arystinger/bffc3f36.md, kb/technology/security/vulnerabilities/wordpress-gravity-smtp/01d1b95b.md, kb/technology/security/threats/regional-asia-pacific/e69d81b0.md, kb/technology/security/law-enforcement/csis-warrant/331f5438.md]
 ---
 # Mid-2026 threat landscape favors legacy/edge devices and credential abuse
 
