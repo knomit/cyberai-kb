@@ -1,10 +1,10 @@
 ---
 type: observation
-domain: [ai, policy, governance]
+domain: [ai, policy, governance, ai-governance, ai-safety]
 confidence: 0.8
-sources: 1
-entities: [Demis Hassabis, Google DeepMind, FINRA, Sriram Krishnan, a16z, Anthropic, OpenAI, Trump administration]
-refs: ['https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/']
+sources: 2
+entities: [Demis Hassabis, Google DeepMind, FINRA, Sriram Krishnan, a16z, Anthropic, OpenAI, Trump administration, Equistamp, Chris Canal]
+refs: ['https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/', 'https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age', 'https://x.com/demishassabis/status/2076957440109625718', 'https://www.thedeepview.com/articles/demis-hassabis-outlines-ambitious-ai-safety-plan', kb/society/politics/technology-policy/ai-governance/f8fb1d28.md]
 ---
 # Hassabis proposed a FINRA-style industry-funded standards body for frontier AI review (July 2026)
 
