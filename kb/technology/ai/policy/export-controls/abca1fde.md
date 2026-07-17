@@ -3,8 +3,8 @@ type: observation
 domain: [ai, policy, security]
 confidence: 0.85
 sources: 0
-entities: [Anthropic, Claude Fable 5, Mythos 5, U.S. Commerce Department, Amazon]
-refs: ['https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html']
+entities: [Anthropic, Claude Fable 5, Mythos 5, U.S. Commerce Department, Amazon, Claude Mythos 5, US Department of Commerce, Claude Opus 4.8]
+refs: ['https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html', 'https://info.deeplearning.ai/restoration-of-claude-fable-5-geminis-video-dev-engine-deepseek-speeds-up-speculative-decoding', kb/technology/ai/governance/export-controls/b3dbcc93.md]
 ---
 # Anthropic restores Claude Fable 5 after US lifts export controls
 
