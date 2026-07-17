@@ -1,10 +1,10 @@
 ---
 type: observation
-domain: [business, ai]
+domain: [business, ai, enterprise]
 confidence: 0.7
 sources: 0
 entities: [Anthropic, Claude Enterprise]
-refs: ['https://www.thedeepview.com/articles/why-anthropic-is-helping-enterprises-spend-less-on-claude']
+refs: ['https://www.thedeepview.com/articles/why-anthropic-is-helping-enterprises-spend-less-on-claude', 'https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend', kb/business/companies/anthropic/enterprise/39b520f5.md]
 ---
 # Anthropic adds Claude Enterprise token cost-control features
 
