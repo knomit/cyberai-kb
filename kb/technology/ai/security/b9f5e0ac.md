@@ -1,7 +1,7 @@
 ---
 type: synthesis
 domain: [AI security, supply chain, developer tools, vulnerabilities]
-confidence: 0.95
+confidence: 0.85
 sources: 1
 evidence_weight: 0.6402877697841726
 origin: distilled
