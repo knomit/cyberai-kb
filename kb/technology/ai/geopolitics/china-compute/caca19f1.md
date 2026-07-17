@@ -2,9 +2,9 @@
 type: observation
 domain: [ai, geopolitics, chips, china]
 confidence: 0.75
-sources: 3
-entities: [Huawei, DeepSeek, Nvidia, SMIC, TSMC]
-refs: [kb/technology/ai/geopolitics/8aa8aa29.md, 'https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance', 'https://tokenmix.ai/blog/deepseek-v4-release-delay-huawei-chip-2026']
+sources: 5
+entities: [Huawei, DeepSeek, Nvidia, SMIC, TSMC, Ascend 910C, Ascend 910D, Nvidia H100]
+refs: [kb/technology/ai/geopolitics/8aa8aa29.md, 'https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance', 'https://tokenmix.ai/blog/deepseek-v4-release-delay-huawei-chip-2026', 'https://www.trendforce.com/news/2025/04/29/news-decoding-huaweis-deepseek-all-in-one-machine-60-70-of-nvidia-h100-performance-at-an-appealing-price/', kb/technology/ai/hardware/accelerators/comparison/a90a4fdc.md]
 ---
 # Huawei Ascend 910C at 60% of H100 inference performance mid-2026 — training still requires Nvidia
 
