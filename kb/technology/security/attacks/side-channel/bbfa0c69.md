@@ -4,7 +4,7 @@ domain: [cybersecurity, side-channel, browser-security, privacy]
 confidence: 0.95
 sources: 1
 entities: [FROST, OPFS, Graz University of Technology]
-refs: ['https://thehackernews.com/2026/06/new-frost-side-channel-attack-lets.html']
+refs: ['https://thehackernews.com/2026/06/new-frost-side-channel-attack-lets.html', 'https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html', kb/technology/security/privacy/side-channel-attacks/c2057459.md]
 ---
 # FROST: JavaScript SSD timing side-channel fingerprints browser activity and app usage without user interaction
 

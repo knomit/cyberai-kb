@@ -1,10 +1,10 @@
 ---
 type: observation
 domain: [AI security, MCP, enterprise AI]
-confidence: 0.88
+confidence: 0.8
 sources: 0
 entities: [MCP, Anthropic, Merge]
-refs: [https://mail.google.com/mail/u/0/#inbox/19d1ab085047c414]
+refs: ['https://mail.google.com/mail/u/0/#inbox/19d1ab085047c414']
 ---
 # MCP Security State of Agentic Integrations Survey: 70% Credential Leak Concerns, 56% Enterprise Search Gaps
 

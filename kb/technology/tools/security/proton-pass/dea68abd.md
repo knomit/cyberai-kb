@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [security, ai-agents, password-management]
-confidence: 0.9
+confidence: 0.85
 sources: 1
 entities: [Proton Pass, Proton]
 refs: []

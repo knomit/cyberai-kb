@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, security, agents, open-source]
-confidence: 0.93
+confidence: 0.85
 sources: 1
 entities: [Microsoft, RAMPART, Clarity, Ram Shankar Siva Kumar]
 refs: ['https://www.deepview.email/p/microsoft-rampart-clarity-agent-security']
