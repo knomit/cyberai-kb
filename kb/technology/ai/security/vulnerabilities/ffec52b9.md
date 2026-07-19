@@ -1,10 +1,10 @@
 ---
 type: observation
 domain: [security, linux, vulnerabilities]
-confidence: 0.98
+confidence: 0.9
 sources: 2
 entities: [Linux Kernel, CISA, Theori, Xint, Kubernetes]
-refs: [https://thehackernews.com/2026/05/weekly-recap.html, https://www.cisa.gov/known-exploited-vulnerabilities-catalog]
+refs: ['https://thehackernews.com/2026/05/weekly-recap.html', 'https://www.cisa.gov/known-exploited-vulnerabilities-catalog']
 ---
 # Copy Fail (CVE-2026-31431): 100% reliable Linux kernel LPE, Kubernetes escape, CISA KEV
 

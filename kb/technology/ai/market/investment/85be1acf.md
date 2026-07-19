@@ -1,10 +1,10 @@
 ---
 type: reference
-domain: [ai, market, investment]
+domain: [ai, market, investment, economics]
 confidence: 0.92
 sources: 1
 entities: [Gartner]
-refs: ['https://www.deepview.email/p/gartner-ai-spending-forecast-2026']
+refs: ['https://www.deepview.email/p/gartner-ai-spending-forecast-2026', 'https://www.thedeepview.com/articles/sonnet-5-is-anthropic-s-answer-to-ai-sticker-shock', kb/business/markets/technology/ai-spending/81a1248e.md]
 ---
 # Gartner: Global AI Spending to Reach $2.59T in 2026, 47% YoY Growth
 
