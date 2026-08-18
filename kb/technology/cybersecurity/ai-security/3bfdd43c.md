@@ -1,7 +1,7 @@
 ---
 type: hypothesis
 domain: [cybersecurity, ai, vulnerability]
-confidence: 0.42
+confidence: 0.4
 sources: 5
 entities: [Mandiant, OpenAI, Daybreak, Microsoft, MDASH, Mozilla, Anthropic Mythos, Synthesia]
 refs: ['kb://d88770a51516/kb/technology/cybersecurity/research/a9ef872d.md', 'kb://d88770a51516/kb/technology/cybersecurity/ai-security/tools/9f9d6fe2.md', 'kb://d88770a51516/kb/technology/cybersecurity/patches/microsoft/4cb9daad.md', 'kb://d88770a51516/kb/technology/cybersecurity/ai-code-security/a32c7c7a.md', 'kb://d88770a51516/kb/meta/reasoning/d84d0e26.md', 'kb://d88770a51516/kb/technology/security/ai/autonomous-malware/431e2a75.md', 'kb://d88770a51516/kb/technology/security/ai/offensive-capability/061d393b.md', 'kb://d88770a51516/kb/technology/security/patterns/7cd2242c.md', 'kb://d88770a51516/kb/technology/security/vulnerabilities/sap/39400fe7.md', 'kb://d88770a51516/kb/technology/security/vulnerabilities/enterprise-software/bc2c061b.md', 'kb://d88770a51516/kb/technology/security/vulnerabilities/geospatial-software/8d6b5380.md', 'kb://d88770a51516/kb/technology/security/vulnerabilities/network-appliances/08ded901.md', 'kb://d88770a51516/kb/technology/ai/models/glm/821e8a3b.md', 'kb://d88770a51516/kb/technology/security/governance/ai-risk/17a0a8d0.md', 'https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html', 'https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html', 'https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html', 'https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html', 'https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/', 'https://z.ai/blog/glm-5.3']
