@@ -1,10 +1,10 @@
 ---
 type: observation
-domain: [ai, llm, model-hosting]
+domain: [ai, llm, model-hosting, coding-models]
 confidence: 0.7
-sources: 1
+sources: 2
 entities: [Ox Alpha, OpenRouter]
-refs: ['https://openrouter.ai/stealth/ox-alpha']
+refs: ['https://openrouter.ai/stealth/ox-alpha', 'kb://d88770a51516/kb/technology/ai/models/coding-models/97f659e1.md']
 ---
 # "Ox Alpha" is an anonymously-provided stealth reasoning model routed by OpenRouter
 
