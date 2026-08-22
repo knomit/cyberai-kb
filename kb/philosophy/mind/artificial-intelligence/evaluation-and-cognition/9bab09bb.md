@@ -1,10 +1,10 @@
 ---
 type: concept
-domain: [ai, cognitive-science, philosophy-of-mind]
+domain: [ai, cognitive-science, philosophy-of-mind, evaluation]
 confidence: 0.8
-sources: 1
+sources: 2
 entities: [Melanie Mitchell, Quanta Magazine]
-refs: ['https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/']
+refs: ['https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/', 'kb://d88770a51516/kb/philosophy/mind/cognition/machine-intelligence/7fe07026.md']
 ---
 # Melanie Mitchell argues AI is an "alien intelligence" requiring animal/infant-style evaluation methods
 
