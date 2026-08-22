@@ -1,10 +1,10 @@
 ---
 type: observation
-domain: [ai, policy, governance]
+domain: [ai, policy, governance, ai-policy]
 confidence: 0.8
-sources: 1
+sources: 2
 entities: [OpenAI]
-refs: ['https://openai.com/index/introducing-ai-futures/']
+refs: ['https://openai.com/index/introducing-ai-futures/', 'kb://d88770a51516/kb/business/companies/openai/research-organization/2ea2e41b.md']
 ---
 # OpenAI launched an AI Futures team to study preserving individual autonomy under advanced AI
 
