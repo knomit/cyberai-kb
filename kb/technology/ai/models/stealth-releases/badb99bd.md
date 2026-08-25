@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, llm, model-hosting, coding-models]
-confidence: 0.7
+confidence: 0.6
 sources: 2
 entities: [Ox Alpha, OpenRouter]
 refs: ['https://openrouter.ai/stealth/ox-alpha', 'kb://d88770a51516/kb/technology/ai/models/coding-models/97f659e1.md']
