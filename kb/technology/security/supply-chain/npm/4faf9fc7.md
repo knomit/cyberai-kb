@@ -4,6 +4,7 @@ domain: [cybersecurity, supply-chain]
 confidence: 0.8
 sources: 1
 entities: [npm, Vite, ViteVenom, ChainVeil, Checkmarx, SuccessKey]
+motifs: [no-intermediary-no-enforcement]
 refs: ['https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html']
 ---
 # ViteVenom: 7 malicious npm packages use four-tier blockchain C2 to deliver a RAT
