@@ -4,6 +4,7 @@ domain: [ai, enterprise, evaluation, agentic-ai]
 confidence: 0.58
 sources: 3
 entities: [METR, LMSYS, HuggingFace, Z.ai, GLM-5.1, OpenAI, ServiceNow]
+motifs: [benchmark-diverges-from-deployment]
 refs: [kb/technology/ai/models/d3ac8540.md, kb/technology/ai/models/open-source/6839027c.md, kb/technology/ai/models/openai/76076e0a.md, kb/technology/ai/enterprise/agents/5482894c.md]
 ---
 # Hypothesis: A Major AI Benchmark Organization Will Publish an 'Agentic Duration' Evaluation Framework by Q2 2027, Displacing SWE-Bench as Primary Coding AI Standard
