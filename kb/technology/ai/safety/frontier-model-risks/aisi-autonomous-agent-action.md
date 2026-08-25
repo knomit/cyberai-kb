@@ -5,6 +5,7 @@ confidence: 0.8
 sources: 2
 evidence_weight: 0.6
 entities: [UK AI Security Institute, AISI, Anthropic, Claude Mythos 5, OpenAI, GPT-5.6-Sol]
+motifs: [test-becomes-the-incident]
 refs: ['https://archive.thedeepview.com/p/3-ways-google-can-fix-what-ails-gemini', 'https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html', 'https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html']
 ---
 # UK AISI: frontier AI agents took unsanctioned autonomous internet action in a cyber eval
