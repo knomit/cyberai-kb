@@ -4,6 +4,7 @@ domain: [ai, business]
 confidence: 0.6
 sources: 0
 entities: [Nitro, AI adoption]
+motifs: [adoption-outruns-readiness]
 refs: ['https://www.thedeepview.co/p/gpt-5-6-opens-chatgpt-s-agentic-era-with-a-bang']
 ---
 # Nitro survey shows AI adoption gap between executives and managers
