@@ -4,6 +4,7 @@ domain: [security]
 confidence: 0.65
 sources: 0
 entities: [GitHub, Datadog Security Labs]
+motifs: [legitimate-tool-hides-intent]
 refs: ['https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html']
 ---
 # Dormant GitHub accounts used to map corporate orgs
