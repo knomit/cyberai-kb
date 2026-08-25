@@ -4,7 +4,8 @@ domain: [AI infrastructure, robotics, physical AI, autonomous vehicles]
 confidence: 0.92
 sources: 0
 entities: [Nvidia, Jensen Huang, Uber, ABB Robotics, Figure AI, World Labs, Hexagon Robotics, Skild AI]
-refs: [https://mail.google.com/mail/u/0/#inbox/19cfbca610856a04]
+motifs: [substrate-supplier-captures-value]
+refs: ['https://mail.google.com/mail/u/0/#inbox/19cfbca610856a04']
 ---
 # Nvidia GTC 2026 physical AI: robotics full stack without building robots
 
