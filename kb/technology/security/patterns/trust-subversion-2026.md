@@ -5,6 +5,7 @@ confidence: 0.8
 sources: 5
 evidence_weight: 0.6226415094339622
 entities: [Arch User Repository (AUR), Sonatype, npm, JFrog, ShapedPlugin, Wordfence, DAEMON Tools, Kaspersky, PushEngage, OptinMonster, TrustPulse, Awesome Motive, Sansec, Chrome Web Store, Island, Velvet Ant, PAM, OpenSSH, CVE-2026-46331, ManageEngine, Calendly, Cellebrite]
+motifs: [reputation-survives-replacement]
 refs: [kb/technology/security/supply-chain/5acab4bc.md, kb/technology/security/synthesis/4e1b54c7.md, kb/technology/security/supply-chain/d93c1c0a.md, kb/technology/security/patterns/38657863.md, 'kb://d88770a51516/kb/technology/security/automotive/head-units/07cc537e.md', 'kb://d88770a51516/kb/technology/security/threat-actors/head-mare/6c7cd9f0.md']
 ---
 # Canonical: 2026 attacker tradecraft subverts trusted components and channels rather than exploiting code flaws
