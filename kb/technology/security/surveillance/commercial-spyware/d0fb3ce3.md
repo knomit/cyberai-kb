@@ -4,6 +4,7 @@ domain: [security, spyware, china]
 confidence: 0.8
 sources: 1
 entities: [LightSpy, Arctic Wolf Labs]
+motifs: [tool-supplies-the-expertise]
 refs: ['https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html']
 ---
 # LightSpy has become a commercialized surveillance platform with router implants in 13+ countries
