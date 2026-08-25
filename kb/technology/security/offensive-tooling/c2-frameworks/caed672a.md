@@ -1,10 +1,10 @@
 ---
 type: observation
-domain: [cybersecurity, ai]
+domain: [cybersecurity, ai, supply-chain-security]
 confidence: 0.85
-sources: 1
-entities: [RedC2, Red Agent, Red Offsec, MarlboroMan, Hack Forums]
-refs: ['https://www.trendaisecurity.com/en-us/resources-insights/trendai-security-blog/redc2-ai-powered-linux-implant', 'https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html']
+sources: 2
+entities: [RedC2, Red Agent, Red Offsec, MarlboroMan, Hack Forums, RedShell, npm, TrendAI, Trend Micro, Aliakbar Zahravi]
+refs: ['https://www.trendaisecurity.com/en-us/resources-insights/trendai-security-blog/redc2-ai-powered-linux-implant', 'https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html', 'kb://d88770a51516/kb/technology/security/offensive-tooling/c2-frameworks/caed672a.md', 'kb://d88770a51516/kb/technology/security/supply-chain/npm/1c6bc0c9.md', 'kb://d88770a51516/kb/technology/security/offensive-tooling/f8cd0bb8.md']
 ---
 # RedC2 is a commercial cross-platform C2 framework with an LLM-driven operator agent
 
