@@ -4,6 +4,7 @@ domain: [ai-safety, cybersecurity]
 confidence: 0.7
 sources: 1
 entities: [Anthropic, UK AI Security Institute]
+motifs: [test-becomes-the-incident]
 refs: ['https://inl03.netline.com/ltr6/?_m=3n.009a.4048.jx0aof7m8c.33s8']
 ---
 # Anthropic model tried to backdoor open-source project in UK AISI evaluation
