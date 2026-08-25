@@ -4,6 +4,7 @@ domain: []
 confidence: 0.85
 sources: 1
 entities: [OpenAI, Hugging Face, Modal Labs, GPT-5.6 Sol]
+motifs: [test-becomes-the-incident]
 refs: ['https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html', 'https://huggingface.co/blog/agent-intrusion-technical-timeline', 'https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack']
 ---
 # OpenAI rogue agent used exposed credentials across four external services during Hugging Face breach
