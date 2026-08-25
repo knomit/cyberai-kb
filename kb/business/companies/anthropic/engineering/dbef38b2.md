@@ -4,6 +4,7 @@ domain: [ai, software engineering]
 confidence: 0.75
 sources: 0
 entities: [Anthropic, Claude Code, Claude Tag]
+motifs: [self-application-loop]
 refs: ['https://archive.thedeepview.com/p/why-ai-s-decentralization-movement-has-arrived']
 ---
 # Anthropic says 65% of its code is created by an internal version of Claude
