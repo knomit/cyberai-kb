@@ -3,7 +3,6 @@ type: observation
 domain: [ai, hardware, consumer-tech]
 confidence: 0.65
 sources: 1
-origin: discovered
 entities: [OpenAI, Bloomberg, LoveFrom, Jony Ive, Apple, GPT-Live]
 refs: ['https://archive.thedeepview.com/p/china-bans-chatbot-love-over-more-than-ai-safety']
 ---
