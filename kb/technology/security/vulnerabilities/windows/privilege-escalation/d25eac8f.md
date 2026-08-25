@@ -4,6 +4,7 @@ domain: [security, windows, vulnerability-disclosure]
 confidence: 0.8
 sources: 1
 entities: [Chaotic Eclipse, Nightmare-Eclipse, Microsoft, Windows User Profile Service, LegacyHive]
+motifs: [disclosure-outpaces-patching]
 refs: ['https://blog.projectnightcrawler.dev/posts/2026-07-14-legacyhive-public-disclosure/', 'https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html', 'https://git.projectnightcrawler.dev/NightmareEclipse/LegacyHive']
 ---
 # LegacyHive PoC exploits Windows User Profile Service hive-load EoP, unpatched as of July 2026
