@@ -4,6 +4,7 @@ domain: [cybersecurity]
 confidence: 0.85
 sources: 0
 entities: [Zimbra, Classic Web Client, XSS]
+motifs: [provenance-lost-on-merge]
 refs: ['https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html']
 ---
 # Critical Zimbra Classic Web Client stored XSS enables code execution
