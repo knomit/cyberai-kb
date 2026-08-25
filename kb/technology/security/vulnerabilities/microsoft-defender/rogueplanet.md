@@ -4,6 +4,7 @@ domain: [security, vulnerabilities]
 confidence: 0.82
 sources: 3
 entities: [Microsoft Defender, CVE-2026-50656, ShieldBreak, Chaotic Eclipse, Microsoft, RoguePlanet, Windows]
+motifs: [disclosure-outpaces-patching, protector-becomes-the-vector]
 refs: ['https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html', 'https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html', 'https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html', 'kb://d88770a51516/kb/technology/security/vulnerabilities/microsoft-defender/rogueplanet.md']
 ---
 # Microsoft Defender 'RoguePlanet' zero-day (CVE-2026-50656): PoC grants SYSTEM, patch in development
