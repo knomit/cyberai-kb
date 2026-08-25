@@ -1,10 +1,10 @@
 ---
 type: observation
-domain: []
+domain: [privacy, encryption, law]
 confidence: 0.9
-sources: 1
-entities: [Meta, WhatsApp, Texas Attorney General]
-refs: ['https://thehackernews.com']
+sources: 2
+entities: [Meta, WhatsApp, Texas Attorney General, US Commerce Department]
+refs: ['https://thehackernews.com', 'kb://d88770a51516/kb/society/law/tech-regulation/meta/7f856994.md']
 ---
 # Texas AG sued Meta over WhatsApp end-to-end encryption claims
 
