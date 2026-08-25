@@ -4,6 +4,7 @@ domain: [security, post-exploitation, browsers]
 confidence: 0.8
 sources: 1
 entities: [SpecterOps, Chrome DevTools Protocol, App-Bound Encryption]
+motifs: [guard-misses-the-act]
 refs: ['https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html']
 ---
 # Enabling CDP in a live Chromium process sidesteps cookie replay protections
