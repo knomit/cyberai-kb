@@ -4,6 +4,7 @@ domain: []
 confidence: 0.85
 sources: 1
 entities: [JetBrains, TeamCity, CVE-2026-63077]
+motifs: [guard-misses-the-act]
 refs: ['https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html']
 ---
 # TeamCity CVE-2026-63077 unauth RCE
