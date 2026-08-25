@@ -4,7 +4,8 @@ domain: [ai, society, work, productivity, engineering]
 confidence: 0.95
 sources: 1
 entities: [Andrew Ng, DeepLearning.AI]
-refs: [https://www.deeplearning.ai/the-batch/issue-april-17-2026]
+motifs: [constraint-relocates-when-relieved]
+refs: ['https://www.deeplearning.ai/the-batch/issue-april-17-2026']
 ---
 # Andrew Ng: AI-native teams push eng:PM ratios to 1:1, creating bottlenecks in every non-engineering function
 
