@@ -4,6 +4,7 @@ domain: [meta, methodology, platform-strategy, competitive-analysis]
 confidence: 0.8
 sources: 2
 entities: [GitHub, Qualcomm, Nvidia, Amazon]
+motifs: [substrate-supplier-captures-value]
 refs: [kb/meta/reasoning/f554850c.md, kb/meta/reasoning/b76e7616.md]
 ---
 # METHODOLOGY: Substrate-layer control as platform dominance predictor
