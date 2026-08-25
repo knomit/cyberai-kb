@@ -4,7 +4,8 @@ domain: [security, ai, enterprise]
 confidence: 0.95
 sources: 1
 entities: [Google, Microsoft, OAuth]
-refs: [https://thehackernews.com/2026/05/moveit-critical-flaw.html]
+motifs: [grant-outlives-its-purpose]
+refs: ['https://thehackernews.com/2026/05/moveit-critical-flaw.html']
 ---
 # Persistent OAuth tokens from AI/productivity tools: major unmanaged attack surface
 
