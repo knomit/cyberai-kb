@@ -3,7 +3,6 @@ type: observation
 domain: [business, advertising, ai-economics]
 confidence: 0.65
 sources: 1
-origin: discovered
 entities: [OpenAI]
 refs: ['https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/']
 ---
