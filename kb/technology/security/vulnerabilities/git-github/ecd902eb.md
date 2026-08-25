@@ -4,6 +4,7 @@ domain: [security, software-supply-chain]
 confidence: 0.8
 sources: 0
 entities: [GitHub, Git]
+motifs: [identifier-is-not-canonical]
 refs: ['https://thehackernews.com/2026/07/github-verified-commits-can-be.html']
 ---
 # GitHub 'Verified' signed-commit hashes are malleable
