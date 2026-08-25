@@ -4,6 +4,7 @@ domain: [security, vulnerability, authentication]
 confidence: 0.85
 sources: 1
 entities: [n8n, CVE-2026-59208, Strix, RFC 8693]
+motifs: [resemblance-passes-for-identity]
 refs: ['https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html']
 ---
 # CVE-2026-59208: n8n token-exchange flaw allowed cross-issuer account takeover
