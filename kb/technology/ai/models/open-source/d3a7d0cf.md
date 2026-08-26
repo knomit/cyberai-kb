@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, models, open-source]
-confidence: 0.9
+confidence: 0.5
 sources: 1
 entities: [OpenAI, GPT-OSS]
 refs: ['https://www.deepview.email/p/openai-gpt-oss-open-source-release']
