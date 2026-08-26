@@ -1,7 +1,7 @@
 ---
 type: reference
 domain: [ai, hardware, public-opinion, wearables]
-confidence: 0.85
+confidence: 0.6
 sources: 1
 entities: [The Deep View]
 refs: ['https://www.deepview.email/p/google-search-ai-overhaul-io-2026']
