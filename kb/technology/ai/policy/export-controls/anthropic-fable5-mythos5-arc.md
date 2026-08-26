@@ -4,8 +4,8 @@ domain: [ai, policy, security, export-controls, governance]
 confidence: 0.85
 sources: 3
 evidence_weight: 0.4444444444444445
-entities: [Anthropic, Claude Fable 5, Claude Mythos 5, US Commerce Department, Amazon, Andrej Karpathy, OpenAI, GPT-5.6, U.S. government]
-refs: ['kb://d88770a51516/kb/technology/ai/policy/export-controls/cd5726e4.md', 'kb://d88770a51516/kb/technology/ai/policy/export-controls/abca1fde.md', 'kb://d88770a51516/kb/technology/ai/policy/model-access-controls/785515f2.md', 'kb://d88770a51516/kb/technology/ai/policy/export-controls/anthropic-fable5-mythos5-arc.md', 'kb://d88770a51516/kb/technology/ai/policy/893bbd4c.md']
+entities: [Anthropic, Claude Fable 5, Claude Mythos 5, US Commerce Department, Amazon, Andrej Karpathy, OpenAI, GPT-5.6, U.S. government, U.S. Commerce Department, Howard Lutnick, Mythos, Fable]
+refs: ['kb://d88770a51516/kb/technology/ai/policy/export-controls/cd5726e4.md', 'kb://d88770a51516/kb/technology/ai/policy/export-controls/abca1fde.md', 'kb://d88770a51516/kb/technology/ai/policy/model-access-controls/785515f2.md', 'kb://d88770a51516/kb/technology/ai/policy/export-controls/anthropic-fable5-mythos5-arc.md', 'kb://d88770a51516/kb/technology/ai/policy/893bbd4c.md', 'https://archive.thedeepview.com/p/us-government-clears-mythos-ai-expectations-shift', 'kb://d88770a51516/kb/society/politics/ai-regulation/export-controls/1654b017.md']
 ---
 # US export controls on Anthropic's Fable 5 and Mythos 5: imposed 12-13 June 2026 over a jailbreak, lifted 30 June, access restored 1 July
 
