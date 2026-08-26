@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, enterprise, cloud]
-confidence: 0.9
+confidence: 0.7
 sources: 1
 entities: [OpenAI, Claude, Anthropic, AWS, Google, SoftBank, Masayoshi Son, Thinking Machines]
 refs: ['https://mail.google.com/mail/u/0/#search/from%3A(the+deep+view)+is%3Aunread/FMfcgzQgLjbvchPzdkLbVCXDSVFQRNGh']
