@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [security, ai, enterprise]
-confidence: 0.95
+confidence: 0.8
 sources: 1
 entities: [Google, Microsoft, OAuth]
 motifs: [grant-outlives-its-purpose]
