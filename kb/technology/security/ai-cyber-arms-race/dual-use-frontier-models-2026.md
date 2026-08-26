@@ -1,11 +1,12 @@
 ---
 type: synthesis
-domain: [security, ai, governance, threat-intelligence, risk]
+domain: [security, ai, governance, threat-intelligence, risk, ai-safety]
 confidence: 0.82
-sources: 3
+sources: 4
 evidence_weight: 0.7222222222222222
-entities: [Anthropic, Claude Mythos, OpenAI, GPT-5.4-Cyber, GPT-5.5-Cyber, Project Daybreak, Five Eyes, LMDeploy, PHANTOMPULSE, SANS Institute, AISLE, Xint]
-refs: [kb/technology/cybersecurity/synthesis/d7a9ac98.md, kb/technology/security/ai-cyber-arms-race/9d5910a0.md]
+origin: distilled
+entities: [Anthropic, Claude Mythos, OpenAI, GPT-5.4-Cyber, GPT-5.5-Cyber, Project Daybreak, Five Eyes, LMDeploy, PHANTOMPULSE, SANS Institute, AISLE, Xint, GPT-5.6-Cyber]
+refs: ['kb://d88770a51516/kb/technology/cybersecurity/synthesis/d7a9ac98.md', 'kb://d88770a51516/kb/technology/security/ai-cyber-arms-race/9d5910a0.md', 'kb://d88770a51516/kb/technology/cybersecurity/ai-security/5e3988cf.md', 'kb://d88770a51516/kb/technology/cybersecurity/ai-security/tools/9bc08c14.md', 'kb://d88770a51516/kb/technology/ai/security/openai-daybreak/b3b243d3.md', 'kb://d88770a51516/kb/technology/security/ai/defensive-tools/322a857f.md', 'kb://d88770a51516/kb/technology/ai/safety/model-guardrails/121b81df.md', 'kb://d88770a51516/kb/technology/security/ai-cyber-arms-race/dual-use-frontier-models-2026.md', 'kb://d88770a51516/kb/technology/security/ai-cyber-arms-race/1bbce44f.md']
 ---
 # Apr-Jun 2026: frontier models are the central axis of a cyber offense/defense arms race, and labs are splitting on how to release them
 
