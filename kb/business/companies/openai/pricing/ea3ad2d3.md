@@ -1,10 +1,10 @@
 ---
 type: observation
-domain: [ai-industry, pricing, llm]
+domain: [ai-industry, pricing, llm, technology, ai, llms]
 confidence: 0.85
-sources: 1
-entities: [OpenAI, Anthropic, GPT-5.6 Sol, Fable 5, Opus 5, DeepSeek]
-refs: ['https://www.thedeepview.com/articles/why-openai-is-resetting-frontier-ai-prices', 'https://x.com/OpenAI/status/2090885187634905500', 'https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html']
+sources: 3
+entities: [OpenAI, Anthropic, GPT-5.6 Sol, Fable 5, Opus 5, DeepSeek, GPT-5.6 Luna, GPT-5.6 Terra, Codex, Google, Gemini 3.6 Flash, Thinking Machines, Inkling Small, Artificial Analysis]
+refs: ['https://www.thedeepview.com/articles/why-openai-is-resetting-frontier-ai-prices', 'https://x.com/OpenAI/status/2090885187634905500', 'https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html', 'kb://d88770a51516/kb/technology/ai/models/llms/market/f5eb83ec.md', 'kb://d88770a51516/kb/technology/ai/business/pricing/73b5d3e6.md', 'kb://d88770a51516/kb/technology/ai/models/llms/market/frontier-price-cuts-late-july-2026.md']
 ---
 # OpenAI cut GPT-5.6 Sol prices more than 20% in a three-month promotion
 
