@@ -5,6 +5,7 @@ confidence: 0.85
 sources: 4
 evidence_weight: 0.7647058823529411
 entities: [OpenAI, Anthropic, GPT-5.6 Sol, GPT-5.6 Terra, GPT-5.6 Luna, Fable 5, Opus 5, DeepSeek, Arena, Tomasz Tunguz]
+motifs: [qualifier-lost-on-citation]
 refs: ['https://www.thedeepview.com/articles/why-openai-is-resetting-frontier-ai-prices', 'https://x.com/OpenAI/status/2090885187634905500', 'https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html', 'https://martinalderson.com/posts/the-summer-of-open-weights/', 'https://archive.thedeepview.com/p/how-a-mystery-model-surprised-the-ai-industry']
 ---
 # OpenAI cut GPT-5.6 Sol prices more than 20% in an explicitly three-month promotion
