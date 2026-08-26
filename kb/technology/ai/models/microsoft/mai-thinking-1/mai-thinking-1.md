@@ -2,9 +2,9 @@
 type: observation
 domain: [ai, llm, foundation-models, benchmarks]
 confidence: 0.65
-sources: 1
+sources: 2
 entities: [Microsoft, MAI-Thinking-1, MAI-Code-1-Flash, Microsoft Build, AIME 2025, Claude Sonnet 4.6, Claude Opus 4.6, DeepSeek V3.2, OpenAI]
-refs: ['kb://d88770a51516/kb/technology/ai/models/microsoft/mai-thinking-1/c5726f07.md', 'kb://d88770a51516/kb/technology/ai/models/microsoft/mai-thinking-1/2733a52d.md', 'kb://d88770a51516/kb/technology/ai/models/microsoft-mai/a7da5833.md', 'kb://d88770a51516/kb/technology/ai/enterprise/cost-efficiency/e5fea5f6.md']
+refs: ['kb://d88770a51516/kb/technology/ai/models/microsoft/mai-thinking-1/c5726f07.md', 'kb://d88770a51516/kb/technology/ai/models/microsoft/mai-thinking-1/2733a52d.md', 'kb://d88770a51516/kb/technology/ai/models/microsoft-mai/a7da5833.md', 'kb://d88770a51516/kb/technology/ai/enterprise/cost-efficiency/e5fea5f6.md', 'https://microsoft.ai/news/introducing-mai-thinking-1/', 'kb://d88770a51516/kb/technology/ai/models/microsoft/mai-thinking-1/mai-thinking-1.md']
 ---
 # Microsoft's MAI-Thinking-1 is its first reasoning model built from scratch — a 1T-parameter MoE leading AIME 2025 among mid-tier peers but trailing them on science and agentic coding
 
