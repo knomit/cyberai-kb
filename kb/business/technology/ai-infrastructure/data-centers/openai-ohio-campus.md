@@ -5,6 +5,7 @@ confidence: 0.75
 sources: 1
 evidence_weight: 0.42857142857142855
 entities: [OpenAI, Nvidia]
+motifs: [qualifier-lost-on-citation]
 refs: ['kb://d88770a51516/kb/technology/infrastructure/data-centers/openai/6cc4d4c7.md', 'kb://d88770a51516/kb/business/technology/ai-infrastructure/data-centers/db986ad5.md']
 ---
 # OpenAI's Nvidia-backed Ohio data centre campus: reported at 10 GW, with Nvidia's first-phase backstop cut from $250B to under $120B over investor risk concerns
