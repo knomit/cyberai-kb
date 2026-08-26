@@ -1,10 +1,10 @@
 ---
 type: observation
 domain: [AI models, AI products, AI safety]
-confidence: 0.92
+confidence: 0.6
 sources: 0
 entities: [Anthropic, Claude Mythos, OpenAI, Spud, Sam Altman, Dario Amodei, Fidji Simo]
-refs: [https://mail.google.com/mail/u/0/#inbox/19d490a2f7313ac4]
+refs: ['https://mail.google.com/mail/u/0/#inbox/19d490a2f7313ac4']
 ---
 # Claude Mythos + OpenAI Spud: next-gen models with unprecedented capabilities and cybersecurity risks
 
