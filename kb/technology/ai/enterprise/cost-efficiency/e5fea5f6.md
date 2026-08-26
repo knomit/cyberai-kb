@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, enterprise]
-confidence: 0.6
+confidence: 0.5
 sources: 1
 entities: [Microsoft, Snowflake, Fireworks AI]
 refs: ['https://www.thedeepview.co/']
