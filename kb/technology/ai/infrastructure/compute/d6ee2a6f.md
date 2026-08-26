@@ -1,10 +1,10 @@
 ---
 type: observation
 domain: [AI infrastructure, cloud computing, compute]
-confidence: 0.91
+confidence: 0.78
 sources: 0
 entities: [Microsoft, OpenAI, Oracle, Crusoe Energy, Stargate]
-refs: [https://mail.google.com/mail/u/0/#inbox/19d24fdb9a90479b]
+refs: ['https://mail.google.com/mail/u/0/#inbox/19d24fdb9a90479b']
 ---
 # Microsoft Acquires Stargate's Orphaned 700MW Compute from Crusoe in Texas
 
