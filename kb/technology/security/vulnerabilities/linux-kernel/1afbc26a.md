@@ -4,7 +4,7 @@ domain: [security, vulnerability, linux, cybersecurity, privilege-escalation]
 confidence: 0.85
 sources: 0
 entities: [DirtyClone, CVE-2026-43503, Dirty Frag, JFrog, Linux kernel, DirtyFrag, JFrog Security Research]
-refs: ['https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html', kb/technology/security/vulnerabilities/linux-kernel/1afbc26a.md]
+refs: ['https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html']
 ---
 # DirtyClone (CVE-2026-43503) Linux kernel flaw enables local root
 
