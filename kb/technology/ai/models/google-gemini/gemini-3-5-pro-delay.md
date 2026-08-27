@@ -5,7 +5,7 @@ confidence: 0.75
 sources: 3
 evidence_weight: 0.5918367346938775
 entities: [Google, Alphabet, Gemini 3.5 Pro, Gemini 3.6 Flash, Anthropic, OpenAI, CNBC, Gemini 3.7 Flash, Gemini 3.5 Flash-Lite, Gemini 3.5 Flash Cyber, Gemini 3.1 Flash-Lite, Gemini 3.5 Flash Live Translate, DeepMind]
-refs: ['kb://d88770a51516/kb/technology/ai/models/google-gemini/bdda7262.md', 'kb://d88770a51516/kb/business/companies/alphabet/products/gemini/43d442a9.md', 'kb://d88770a51516/kb/technology/ai/models/google-gemini/gemini-3-5-pro-delay.md', 'kb://d88770a51516/kb/technology/ai/models/google-gemini/71a59ba3.md', 'kb://d88770a51516/kb/technology/ai/models/google-gemini/gemini-3-7-flash.md', 'kb://d88770a51516/kb/technology/ai/models/frontier/24aa7eb3.md', 'kb://d88770a51516/kb/technology/ai/models/releases/576941fe.md', 'kb://d88770a51516/kb/technology/ai/models/google-gemini/c47208e3.md']
+refs: ['kb://d88770a51516/kb/technology/ai/models/google-gemini/bdda7262.md', 'kb://d88770a51516/kb/business/companies/alphabet/products/gemini/43d442a9.md', 'kb://d88770a51516/kb/technology/ai/models/google-gemini/71a59ba3.md', 'kb://d88770a51516/kb/technology/ai/models/google-gemini/gemini-3-7-flash.md', 'kb://d88770a51516/kb/technology/ai/models/frontier/24aa7eb3.md', 'kb://d88770a51516/kb/technology/ai/models/releases/576941fe.md', 'kb://d88770a51516/kb/technology/ai/models/google-gemini/c47208e3.md']
 ---
 # Gemini 3.5 Pro was reported delayed on 16 July 2026 over coding performance; Alphabet shares fell 4%
 
