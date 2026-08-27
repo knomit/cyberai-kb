@@ -1,7 +1,7 @@
 ---
 type: hypothesis
 domain: [ai, enterprise, evaluation, agentic-ai]
-confidence: 0.65
+confidence: 0.7
 sources: 3
 entities: [METR, LMSYS, HuggingFace, Z.ai, GLM-5.1, OpenAI, ServiceNow]
 motifs: [benchmark-diverges-from-deployment]
