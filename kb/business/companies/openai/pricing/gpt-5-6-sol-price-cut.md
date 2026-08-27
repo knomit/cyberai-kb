@@ -1,12 +1,12 @@
 ---
 type: observation
-domain: [ai-industry, pricing, llm, technology, ai, llms]
+domain: [ai-industry, pricing, llm, technology, ai, llms, enterprise-economics]
 confidence: 0.85
-sources: 4
-evidence_weight: 0.7647058823529411
-entities: [OpenAI, Anthropic, GPT-5.6 Sol, GPT-5.6 Terra, GPT-5.6 Luna, Fable 5, Opus 5, DeepSeek, Arena, Tomasz Tunguz]
+sources: 5
+evidence_weight: 0.8607242339832869
+entities: [OpenAI, Anthropic, GPT-5.6 Sol, GPT-5.6 Terra, GPT-5.6 Luna, Fable 5, Opus 5, DeepSeek, Arena, Tomasz Tunguz, GPT-5.5, Codex, Claude Fable 5, Artificial Analysis]
 motifs: [qualifier-lost-on-citation]
-refs: ['https://www.thedeepview.com/articles/why-openai-is-resetting-frontier-ai-prices', 'https://x.com/OpenAI/status/2090885187634905500', 'https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html', 'https://martinalderson.com/posts/the-summer-of-open-weights/', 'https://archive.thedeepview.com/p/how-a-mystery-model-surprised-the-ai-industry']
+refs: ['https://www.thedeepview.com/articles/why-openai-is-resetting-frontier-ai-prices', 'https://x.com/OpenAI/status/2090885187634905500', 'https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html', 'https://martinalderson.com/posts/the-summer-of-open-weights/', 'https://archive.thedeepview.com/p/how-a-mystery-model-surprised-the-ai-industry', 'kb://d88770a51516/kb/technology/ai/products/openai/a22b0f50.md', 'kb://d88770a51516/kb/technology/ai/models/gpt/51dab2d4.md', 'kb://d88770a51516/kb/technology/ai/models/llms/market/f5eb83ec.md', 'kb://d88770a51516/kb/business/companies/openai/pricing/c0615145.md', 'kb://d88770a51516/kb/technology/ai/models/openai/gpt-5-6/pricing-benchmarks.md', 'kb://d88770a51516/kb/technology/ai/models/gpt/d77039d9.md']
 ---
 # OpenAI cut GPT-5.6 Sol prices more than 20% in an explicitly three-month promotion
 
