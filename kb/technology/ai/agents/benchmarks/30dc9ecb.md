@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, benchmarks, agents]
-confidence: 0.8
+confidence: 0.7
 sources: 0
 entities: [Long-Horizon Terminal-Bench, LHTB]
 motifs: [self-report-replaces-inspection]
