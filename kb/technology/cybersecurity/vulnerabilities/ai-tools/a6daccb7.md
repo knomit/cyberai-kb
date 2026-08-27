@@ -5,7 +5,7 @@ confidence: 0.95
 sources: 3
 entities: [Langflow, CVE-2025-34291, CISA, MuddyWater, Obsidian Security, Iran, Chaos Ransomware, Rapid7, Microsoft Teams]
 motifs: [one-principal-spans-boundaries]
-refs: ['https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html', 'kb://d88770a51516/kb/technology/cybersecurity/threats/apt/d388e76e.md', 'kb://d88770a51516/kb/technology/cybersecurity/vulnerabilities/ai-tools/a6daccb7.md', 'kb://d88770a51516/kb/technology/cybersecurity/threats/apt/1e9bf100.md']
+refs: ['https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html', 'kb://d88770a51516/kb/technology/cybersecurity/threats/apt/d388e76e.md', 'kb://d88770a51516/kb/technology/cybersecurity/threats/apt/1e9bf100.md']
 ---
 # CISA KEV: Langflow CVE-2025-34291 (CVSS 9.4) Actively Exploited by Iranian APT MuddyWater — Cascading SaaS Credential Exposure
 
