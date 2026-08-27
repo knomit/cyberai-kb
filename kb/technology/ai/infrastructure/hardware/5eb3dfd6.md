@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [AI infrastructure, robotics, physical AI, autonomous vehicles]
-confidence: 0.92
+confidence: 0.85
 sources: 0
 entities: [Nvidia, Jensen Huang, Uber, ABB Robotics, Figure AI, World Labs, Hexagon Robotics, Skild AI]
 motifs: [substrate-supplier-captures-value]
