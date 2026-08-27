@@ -4,6 +4,7 @@ domain: [security, ai-safety]
 confidence: 0.8
 sources: 0
 entities: [GitHub Copilot, Anthropic Claude, Google Gemini]
+motifs: [assembly-deferred-past-inspection]
 refs: ['https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html']
 ---
 # Workflow-level jailbreak defeats GitHub Copilot guardrails

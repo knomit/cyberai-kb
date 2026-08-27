@@ -3,7 +3,6 @@ type: observation
 domain: [ai, agents, software-engineering]
 confidence: 0.65
 sources: 1
-origin: distilled
 entities: [Replit]
 refs: ['https://replit.com/blog/self-driving-company']
 ---

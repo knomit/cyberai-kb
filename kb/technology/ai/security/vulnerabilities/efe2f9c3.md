@@ -4,7 +4,8 @@ domain: [AI security, vulnerabilities, AI infrastructure]
 confidence: 0.92
 sources: 0
 entities: [LiteLLM, BerriAI]
-refs: [https://thehackernews.com]
+motifs: [disclosure-outpaces-patching]
+refs: ['https://thehackernews.com']
 ---
 # LiteLLM CVE-2026-42208 SQL injection exploited within 36 hours of disclosure
 

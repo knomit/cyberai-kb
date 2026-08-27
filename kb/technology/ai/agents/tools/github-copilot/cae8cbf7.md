@@ -3,7 +3,6 @@ type: observation
 domain: [ai, agents, developer-tools]
 confidence: 0.8
 sources: 1
-origin: distilled
 entities: [GitHub, Copilot SDK]
 refs: ['https://github.com/github/copilot-sdk']
 ---

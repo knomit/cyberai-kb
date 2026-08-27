@@ -4,6 +4,7 @@ domain: [meta, reasoning, methodology]
 confidence: 0.8
 sources: 1
 entities: [Qualcomm, Google, Alibaba, Meta]
+motifs: [commoditization-relocates-rivalry]
 refs: []
 ---
 # Reasoning process: silicon commoditization as competitive battleground shift signal

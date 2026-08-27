@@ -4,6 +4,7 @@ domain: [cybersecurity, supply-chain]
 confidence: 0.85
 sources: 0
 entities: [Injective Labs, npm, GitHub, '@injectivelabs/sdk-ts', cryptocurrency wallet]
+motifs: [reputation-survives-replacement]
 refs: ['https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html']
 ---
 # Injective Labs GitHub compromise pushed wallet-key-stealing npm package

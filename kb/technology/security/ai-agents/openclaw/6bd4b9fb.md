@@ -4,6 +4,7 @@ domain: [ai, security, prompt-injection, ai-agents]
 confidence: 0.8
 sources: 0
 entities: [OpenClaw, Imperva, Varonis]
+motifs: [provenance-lost-on-merge]
 refs: ['https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html']
 ---
 # OpenClaw AI agent tricked into running code and leaking secrets (Imperva, Varonis)

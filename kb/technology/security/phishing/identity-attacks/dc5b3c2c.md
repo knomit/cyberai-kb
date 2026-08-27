@@ -4,6 +4,7 @@ domain: [cybersecurity, identity]
 confidence: 0.75
 sources: 1
 entities: [Kali365, Microsoft]
+motifs: [access-granted-not-stolen]
 refs: ['https://inl03.netline.com/ltr6/?_m=3n.009a.4048.jx0aof7m8c.33rk']
 ---
 # Kali365 phishing kit weaponizes Microsoft device-code authentication

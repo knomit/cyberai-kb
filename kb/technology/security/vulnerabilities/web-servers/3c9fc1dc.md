@@ -4,6 +4,7 @@ domain: [cybersecurity, vulnerabilities, web-servers, dos]
 confidence: 0.95
 sources: 1
 entities: [HTTP/2 Bomb, HPACK, NGINX, Apache HTTPD, Cloudflare Pingora, Envoy, Microsoft IIS]
+motifs: [limit-measures-wrong-quantity]
 refs: ['https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html']
 ---
 # HTTP/2 Bomb (HPACK + Slowloris): remote DoS on NGINX, Apache, IIS, Envoy, Cloudflare Pingora

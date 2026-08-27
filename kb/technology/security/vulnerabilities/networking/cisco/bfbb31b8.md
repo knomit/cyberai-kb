@@ -1,10 +1,11 @@
 ---
 type: observation
-domain: [security, vulnerability-management, networking]
+domain: [security, vulnerability-management, networking, cybersecurity]
 confidence: 0.9
-sources: 1
-entities: [Cisco, Cisco Crosswork, Cisco Secure Workload]
-refs: ['https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html']
+sources: 2
+evidence_weight: 0.6428571428571429
+entities: [Cisco, Cisco Crosswork, Cisco Secure Workload, CVE-2026-20030, CVE-2026-20315, CVE-2026-20317, CVE-2026-20349]
+refs: ['https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html', 'https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-crosswork-UzDTU9Vh', 'https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-csw1-shSvndWP', 'kb://d88770a51516/kb/technology/security/vulnerabilities/cisco/1e8287a2.md']
 ---
 # Cisco patched nine Crosswork and Secure Workload flaws in August 2026, five rated CVSS 10.0
 

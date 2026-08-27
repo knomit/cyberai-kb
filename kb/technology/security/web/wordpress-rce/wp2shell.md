@@ -5,6 +5,7 @@ confidence: 0.85
 sources: 2
 evidence_weight: 0.7101449275362319
 entities: [WordPress, CVE-2026-63030, CVE-2026-60137, wp2shell, Searchlight Cyber, watchTowr, Assetnote, Jake Knott]
+motifs: [disclosure-outpaces-patching]
 refs: [kb/technology/security/web/wordpress-rce/0499b496.md, kb/technology/security/vulnerabilities/wordpress/d9ac7fc6.md]
 ---
 # WordPress 'wp2shell' (CVE-2026-63030 + CVE-2026-60137): pre-authenticated RCE in WordPress Core, actively exploited

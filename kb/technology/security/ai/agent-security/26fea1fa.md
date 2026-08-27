@@ -4,6 +4,7 @@ domain: [technology, ai, security]
 confidence: 0.8
 sources: 1
 entities: [AWS, Kiro, Intezer, Kodem Security]
+motifs: [provenance-lost-on-merge]
 refs: ['https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html']
 ---
 # AWS Kiro IDE flaw allowed remote code execution via poisoned web page

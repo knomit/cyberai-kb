@@ -4,7 +4,7 @@ domain: []
 confidence: 0.8
 sources: 2
 entities: [Kimi K3, Moonshot, Mixture of Experts, vLLM, Moonshot AI]
-refs: ['https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html', 'https://x.com/vllm_project/status/2081788542079123939', 'https://threadreaderapp.com/thread/2081760186235289764.html', kb/technology/ai/models/kimi-k3/aff9e11b.md]
+refs: ['https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html', 'https://x.com/vllm_project/status/2081788542079123939', 'https://threadreaderapp.com/thread/2081760186235289764.html']
 ---
 # Kimi K3: 2.8-trillion-parameter multimodal MoE with 1M-token context
 

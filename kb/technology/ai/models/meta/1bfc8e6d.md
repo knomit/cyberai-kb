@@ -4,7 +4,8 @@ domain: [ai, models, meta, open-source]
 confidence: 0.95
 sources: 1
 entities: [Meta, Muse Spark, Alexandr Wang, Scale AI]
-refs: [https://ai.meta.com/blog/muse-spark-release-april-2026]
+motifs: [openness-as-market-wedge]
+refs: ['https://ai.meta.com/blog/muse-spark-release-april-2026']
 ---
 # Meta Muse Spark: proprietary pivot from open-weights with contemplating multi-agent mode and health leadership
 

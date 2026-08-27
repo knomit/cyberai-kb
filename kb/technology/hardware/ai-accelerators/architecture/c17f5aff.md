@@ -3,7 +3,6 @@ type: observation
 domain: [hardware, computer-architecture]
 confidence: 0.65
 sources: 1
-origin: discovered
 entities: [systolic array]
 refs: ['https://links.tldrnewsletter.com/6mR39R']
 ---

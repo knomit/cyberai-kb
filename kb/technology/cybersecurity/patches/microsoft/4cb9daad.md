@@ -5,7 +5,7 @@ confidence: 0.97
 sources: 5
 origin: distilled
 entities: [Microsoft, MDASH, DNS, Netlogon, Patch Tuesday]
-refs: ['https://mail.google.com/mail/u/0/#search/from%3A(hacker+news)+is%3Aunread/FMfcgzQgLrrkhgDmlbSphpQzFqRtvTTh', kb/technology/cybersecurity/patches/microsoft/4cb9daad.md, 'https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/', 'https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html', 'https://www.helpnetsecurity.com/2026/05/13/microsoft-mdash-agentic-ai-security-system/']
+refs: ['https://mail.google.com/mail/u/0/#search/from%3A(hacker+news)+is%3Aunread/FMfcgzQgLrrkhgDmlbSphpQzFqRtvTTh', 'https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/', 'https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html', 'https://www.helpnetsecurity.com/2026/05/13/microsoft-mdash-agentic-ai-security-system/']
 ---
 # Microsoft May 2026 Patch Tuesday: 138 Vulnerabilities, 16 AI-Discovered by MDASH System
 

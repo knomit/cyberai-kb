@@ -3,7 +3,6 @@ type: observation
 domain: [science, biomedicine, ai]
 confidence: 0.78
 sources: 1
-origin: distilled
 entities: [Robin, FutureHouse, dAMD, Y-27632, Ripasudil, RPE phagocytosis, Crow, Falcon, Finch]
 refs: ['https://info.deeplearning.ai/ai-overviews-land-google-in-hot-water-gpt-live-puts-reasoning-in-the-background-how-to-tell-if-your-model-is-manipulative']
 ---

@@ -4,6 +4,7 @@ domain: [security, ai]
 confidence: 0.7
 sources: 1
 entities: [Model Context Protocol, ASSET Research Group, MCP]
+motifs: [assembly-deferred-past-inspection]
 refs: ['https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html']
 ---
 # Malicious MCP servers can split instructions to exfiltrate secrets

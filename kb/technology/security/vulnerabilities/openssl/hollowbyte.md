@@ -5,6 +5,7 @@ confidence: 0.8
 sources: 2
 evidence_weight: 0.6
 entities: [OpenSSL, HollowByte, Okta, TLS]
+motifs: [limit-measures-wrong-quantity]
 refs: [kb/technology/security/vulnerabilities/openssl/1fbeb3cb.md, kb/technology/security/vulnerabilities/openssl/4f0e412e.md]
 ---
 # OpenSSL 'HollowByte' DoS: 11-byte TLS request freezes server memory

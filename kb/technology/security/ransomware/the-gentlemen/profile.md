@@ -4,6 +4,7 @@ domain: [security, ransomware, malware]
 confidence: 0.8
 sources: 2
 entities: [The Gentlemen, Storm-2697, GentleKiller, HexKiller, ThrottleBlood, HavocKiller, ESET, Jakub Soucek, Microsoft]
+motifs: [tool-supplies-the-expertise]
 refs: [kb/technology/security/threats/ransomware/57f1e8b4.md, kb/technology/security/ransomware/the-gentlemen/9b4164b5.md]
 ---
 # The Gentlemen RaaS (Storm-2697): 478 victims, GentleKiller EDR-killer framework targeting ~400 security processes

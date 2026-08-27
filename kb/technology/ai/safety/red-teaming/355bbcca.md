@@ -3,7 +3,6 @@ type: observation
 domain: [ai-safety, security, prompt-injection]
 confidence: 0.8
 sources: 2
-origin: discovered
 entities: [OpenAI, GPT-Red, GPT-5.6 Sol]
 refs: ['https://openai.com/index/unlocking-self-improvement-gpt-red/', 'https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html']
 ---

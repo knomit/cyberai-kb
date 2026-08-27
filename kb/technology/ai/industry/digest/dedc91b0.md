@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, robotics, infrastructure, investment]
-confidence: 0.9
+confidence: 0.5
 sources: 1
 entities: [Akamai, Anthropic, Figure AI, Hermes Agent, OpenClaw, OpenRouter, Apple, Intel, Perplexity, Google]
 refs: ['https://mail.google.com/mail/u/0/#search/from%3A(the+deep+view)+is%3Aunread/FMfcgzQgLjZmbCWxVFnbqjLxfmBwqjGd']

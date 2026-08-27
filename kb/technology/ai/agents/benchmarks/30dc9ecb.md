@@ -4,6 +4,7 @@ domain: [ai, benchmarks, agents]
 confidence: 0.8
 sources: 0
 entities: [Long-Horizon Terminal-Bench, LHTB]
+motifs: [self-report-replaces-inspection]
 refs: ['https://github.com/zli12321/LHTB']
 ---
 # Long-Horizon Terminal-Bench evaluates sustained LLM agent terminal work
