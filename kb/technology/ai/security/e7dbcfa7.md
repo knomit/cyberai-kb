@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [AI security, AI coding, enterprise AI]
-confidence: 0.7
+confidence: 0.65
 sources: 0
 entities: [DryRun Security, Claude, Codex, Gemini]
 refs: ['https://mail.google.com/mail/u/0/#inbox/19d24fdb9a90479b']
