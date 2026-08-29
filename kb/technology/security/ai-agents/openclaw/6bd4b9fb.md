@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, security, prompt-injection, ai-agents]
-confidence: 0.8
+confidence: 0.7
 sources: 0
 entities: [OpenClaw, Imperva, Varonis]
 motifs: [provenance-lost-on-merge]
