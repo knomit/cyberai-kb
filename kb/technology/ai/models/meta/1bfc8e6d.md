@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, models, meta, open-source]
-confidence: 0.85
+confidence: 0.75
 sources: 1
 entities: [Meta, Muse Spark, Alexandr Wang, Scale AI]
 motifs: [openness-as-market-wedge]
