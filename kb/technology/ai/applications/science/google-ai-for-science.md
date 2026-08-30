@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, science, research, enterprise-ai]
-confidence: 0.9
+confidence: 0.8
 sources: 1
 evidence_weight: 0.48717948717948717
 entities: [Google, Google Research, Yossi Matias, Gemini for Science, Co-Scientist, AlphaEvolve, ERA, NotebookLM, Lizzie Dorfman, Stanford, Imperial College, BASF, Bayer Crop Science, OpenAI, GPT-Rosalind]
