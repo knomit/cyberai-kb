@@ -1,8 +1,9 @@
 ---
 type: synthesis
 domain: [ai-society, workforce, cognitive-science, enterprise-ai]
-confidence: 0.89
+confidence: 0.7
 sources: 1
+origin: distilled
 entities: [Jayney Howson, ServiceNow, ServiceNow University]
 refs: ['https://www.thedeepview.com/articles/the-hidden-cost-of-offloading-your-thinking-at-work']
 ---
