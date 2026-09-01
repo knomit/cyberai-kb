@@ -1,12 +1,12 @@
 ---
 type: synthesis
-domain: [security, ai, ai-agents, prompt-injection, supply-chain, policy, enterprise, ai-safety, agents]
+domain: [security, ai, ai-agents, prompt-injection, supply-chain, policy, enterprise, ai-safety, agents, technology, vulnerability-discovery]
 confidence: 0.8
-sources: 8
-evidence_weight: 0.6254681647940075
+sources: 10
+evidence_weight: 0.8027613412228797
 origin: distilled
-entities: [Gemini, LangGraph, OpenClaw, Sentry, Model Context Protocol (MCP), Amazon Q Developer, AWS Bedrock AgentCore, Claude Code, Cursor, Anthropic, OpenAI, Meta, Google, Apple, Miasma, Proton Pass, 1Password, n8n, Strix, Confidential Computing Summit, Trail of Bits, Check Point, Imperva, Varonis, Wiz Research, DigiCert, Google Dialogflow CX, GitHub Copilot, European Commission, lethal trifecta, GPT-Red, Perplexity, SPACE, Seoul National University, Largosoft, Tenet Security, MCP, Palo Alto Networks Unit 42, TeamPCP, SLSA]
-refs: [kb/technology/security/ai-agents/synthesis/fdf673e8.md, kb/technology/security/ai-agents/6cf51b30.md, kb/technology/security/ai/3776109e.md, kb/technology/ai/agents/2572c2c5.md, kb/technology/ai/safety/synthesis/bbca2df7.md, kb/technology/security/ai-agents/bddcf8c3.md, kb/technology/ai/safety/synthesis/agent-trusted-data-channel.md, 'kb://d88770a51516/kb/technology/ai/security/33aa6ed0.md', 'kb://d88770a51516/kb/technology/security/ai/agent-security/58431265.md']
+entities: [Gemini, LangGraph, OpenClaw, Sentry, Model Context Protocol (MCP), Amazon Q Developer, AWS Bedrock AgentCore, Claude Code, Cursor, Anthropic, OpenAI, Meta, Google, Apple, Miasma, Proton Pass, 1Password, n8n, Strix, Confidential Computing Summit, Trail of Bits, Check Point, Imperva, Varonis, Wiz Research, DigiCert, Google Dialogflow CX, GitHub Copilot, European Commission, lethal trifecta, GPT-Red, Perplexity, SPACE, Seoul National University, Largosoft, Tenet Security, MCP, Palo Alto Networks Unit 42, TeamPCP, SLSA, AI agents, Claude Mythos 5, Atlassian Rovo, Shai-Hulud, UK AI Security Institute, Model Context Protocol, Kimi K3, Redis, Aikido Security, NodeBB, ChatGPT, AgentForger, Hermes, Astra, Hugging Face, Thinking Machines]
+refs: ['kb://d88770a51516/kb/technology/security/ai-agents/synthesis/fdf673e8.md', 'kb://d88770a51516/kb/technology/security/ai-agents/6cf51b30.md', 'kb://d88770a51516/kb/technology/security/ai/3776109e.md', 'kb://d88770a51516/kb/technology/ai/agents/2572c2c5.md', 'kb://d88770a51516/kb/technology/ai/safety/synthesis/bbca2df7.md', 'kb://d88770a51516/kb/technology/security/ai-agents/bddcf8c3.md', 'kb://d88770a51516/kb/technology/ai/safety/synthesis/agent-trusted-data-channel.md', 'kb://d88770a51516/kb/technology/ai/security/33aa6ed0.md', 'kb://d88770a51516/kb/technology/security/ai/agent-security/58431265.md', 'kb://d88770a51516/kb/technology/security/ai-agents/93c20aff.md', 'kb://d88770a51516/kb/technology/security/ai-agents/d471266a.md', 'kb://d88770a51516/kb/technology/security/ai-agents/synthesis/agent-access-is-blast-radius.md', 'kb://d88770a51516/kb/technology/security/ai/agent-vulnerabilities/3b685f9a.md', 'kb://d88770a51516/kb/technology/security/supply-chain/npm/a5a052e7.md', 'kb://d88770a51516/kb/technology/security/ai-agents/09a1c2fe.md']
 ---
 # CANONICAL: an AI agent's access is the attacker's blast radius — agents are compromised through permissions and injected input, not model breaks
 
