@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [security, ai-safety]
-confidence: 0.8
+confidence: 0.7
 sources: 0
 entities: [GitHub Copilot, Anthropic Claude, Google Gemini]
 motifs: [assembly-deferred-past-inspection]
