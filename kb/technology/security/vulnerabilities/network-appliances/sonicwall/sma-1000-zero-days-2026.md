@@ -1,11 +1,13 @@
 ---
 type: synthesis
-domain: [security, zero-day, network-security]
+domain: [security, zero-day, network-security, threat-intel]
 confidence: 0.85
-sources: 2
-evidence_weight: 0.6226415094339622
-entities: [SonicWall, UTA0533, Secure Mobile Access 1000, CISA, CVE-2026-15409, CVE-2026-15410]
-refs: ['https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html', 'https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html', 'https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0008', 'https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog']
+sources: 3
+evidence_weight: 0.7183098591549295
+origin: distilled
+entities: [SonicWall, UTA0533, Secure Mobile Access 1000, CISA, CVE-2026-15409, CVE-2026-15410, SMA 1000, KNUCKLEBALL, Volexity]
+motifs: [repeat-vendor-exposure, chained-preauth-postauth]
+refs: ['https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html', 'https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html', 'https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0008', 'https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog', 'https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html', 'kb://d88770a51516/kb/technology/security/vulnerabilities/vpn-appliances/ac323daa.md']
 ---
 # SonicWall SMA 1000 zero-days (CVE-2026-15409 / CVE-2026-15410) exploited by UTA0533 for root access
 
