@@ -1,12 +1,12 @@
 ---
 type: observation
-domain: [ai, business, mergers-acquisitions, m-and-a, open-source-ai, market-structure, semiconductors, valuation, governance]
+domain: [ai, business, mergers-acquisitions, m-and-a, open-source-ai, market-structure, semiconductors, valuation, governance, mergers-and-acquisitions]
 confidence: 0.9
-sources: 11
-evidence_weight: 0.9061032863849765
+sources: 12
+evidence_weight: 0.9152542372881356
 entities: [Nvidia, Hugging Face, Jensen Huang, Groq, Clem Delangue, The Information, Ashish Nadkarni, IDC, CNBC]
 motifs: [independence-traded-for-scale, consolidation-of-ai-stack, commoditization-relocates-rivalry]
-refs: ['kb://d88770a51516/kb/business/companies/nvidia/acquisitions/4fb6db47.md', 'kb://d88770a51516/kb/business/companies/hugging-face/corporate-actions/02ccba86.md', 'kb://d88770a51516/kb/business/companies/nvidia/investments/241f03f2.md']
+refs: ['kb://d88770a51516/kb/business/companies/nvidia/acquisitions/4fb6db47.md', 'kb://d88770a51516/kb/business/companies/hugging-face/corporate-actions/02ccba86.md', 'kb://d88770a51516/kb/business/companies/nvidia/investments/241f03f2.md', 'https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/', 'kb://d88770a51516/kb/business/companies/nvidia/acquisitions/7b6a7e1e.md']
 ---
 # Nvidia acquired Hugging Face for $12.9 billion on 2026-09-03, after a reported ~$13 billion offer round and an earlier refused $500M investment at a $7B valuation
 
