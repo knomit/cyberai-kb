@@ -1,9 +1,9 @@
 ---
 type: observation
-domain: [cybersecurity, supply-chain-security, devops]
+domain: [cybersecurity, supply-chain, supply-chain-security, devops]
 confidence: 0.88
-sources: 2
-entities: [JFrog Artifactory, CVE-2026-42018, CVE-2026-42016, Wiz]
+sources: 3
+entities: [JFrog, Artifactory, Wiz, CVE-2026-42018, CVE-2026-42016, JFrog Artifactory]
 motifs: [vulnerability-chaining, token-scope-confusion, build-pipeline-compromise]
 refs: ['https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html', 'https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/']
 ---
