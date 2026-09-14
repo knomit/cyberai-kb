@@ -1,11 +1,12 @@
 ---
 type: observation
-domain: [open-weights-models, multimodal-models, ai-hardware]
+domain: [open-weights-models, multimodal-models, ai-hardware, ai, llm, china, model-hosting, coding-models, open-weights]
 confidence: 0.88
-sources: 3
-entities: [Z.ai, GLM-5.3-Flash, Ox Alpha, GLM-5.3, OpenRouter, OpenCode, Artificial Analysis, DeepSeek]
-motifs: [anonymous-preview-launch, hardware-independence-signal]
-refs: ['https://huggingface.co/zai-org/GLM-5.3-Flash', 'https://autoclaw.z.ai/blog/model/glm-5.3-flash/', 'https://www.deeplearning.ai/the-batch/issue-369']
+sources: 8
+evidence_weight: 0.8732572877059569
+entities: [Z.ai, GLM-5.3-Flash, Ox Alpha, GLM-5.3, OpenRouter, OpenCode, Artificial Analysis, DeepSeek, ZCode, GLM-5.3 Flash]
+motifs: [anonymous-preview-launch, hardware-independence-signal, openness-as-market-wedge]
+refs: ['https://huggingface.co/zai-org/GLM-5.3-Flash', 'https://autoclaw.z.ai/blog/model/glm-5.3-flash/', 'https://www.deeplearning.ai/the-batch/issue-369', 'https://z.ai/blog/glm-5.3-flash', 'https://www.thedeepview.com/articles/what-z-ai-s-ox-alpha-reveals-about-ai-economics', 'kb://d88770a51516/kb/technology/ai/models/stealth-releases/badb99bd.md', 'kb://d88770a51516/kb/technology/ai/models/anonymous-releases/c269be39.md', 'kb://d88770a51516/kb/technology/ai/models/open-weight/glm/ee7fbed2.md', 'https://www.deeplearning.ai/the-batch/issue-368', 'kb://d88770a51516/kb/technology/ai/models/open-weights/98c0a645.md', 'kb://d88770a51516/kb/technology/ai/models/open-weight/glm/7269a6cd.md']
 ---
 # Z.ai's "Ox Alpha" revealed as GLM-5.3-Flash, an MIT-licensed multimodal MoE served on Chinese chips
 
