@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [cybersecurity, supply-chain, ai]
-confidence: 0.93
+confidence: 0.88
 sources: 2
 entities: [Hugging Face, OpenAI, Open-OSS/privacy-filter, openai/privacy-filter, Privacy Filter]
 refs: ['https://thehackernews.com/2026/05/weekly-recap-exchange-0day-npm-worm.html', 'https://mail.google.com/mail/u/0/#search/from%3A(hacker+news)+is%3Aunread/FMfcgzQgLjZmZzHvRnRKJwVGjDLHfWxG']
