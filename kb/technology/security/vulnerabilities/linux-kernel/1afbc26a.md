@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [security, vulnerability, linux, cybersecurity, privilege-escalation]
-confidence: 0.85
+confidence: 0.78
 sources: 0
 entities: [DirtyClone, CVE-2026-43503, Dirty Frag, JFrog, Linux kernel, DirtyFrag, JFrog Security Research]
 refs: ['https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html']
