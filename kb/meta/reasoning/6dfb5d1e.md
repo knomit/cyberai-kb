@@ -1,7 +1,7 @@
 ---
 type: methodology
 domain: [meta, reasoning, methodology]
-confidence: 0.8
+confidence: 0.72
 sources: 1
 entities: [Qualcomm, Google, Alibaba, Meta]
 motifs: [commoditization-relocates-rivalry]

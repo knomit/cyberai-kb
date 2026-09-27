@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [cybersecurity, supply-chain]
-confidence: 0.85
+confidence: 0.78
 sources: 0
 entities: [Injective Labs, npm, GitHub, '@injectivelabs/sdk-ts', cryptocurrency wallet]
 motifs: [reputation-survives-replacement]

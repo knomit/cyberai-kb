@@ -1,11 +1,12 @@
 ---
 type: concept
-domain: [security, post-exploitation, browsers]
+domain: [security, post-exploitation, browsers, malware]
 confidence: 0.8
-sources: 1
-entities: [SpecterOps, Chrome DevTools Protocol, App-Bound Encryption]
+sources: 2
+evidence_weight: 0.6226415094339622
+entities: [SpecterOps, Chrome DevTools Protocol, App-Bound Encryption, Amnesia Stealer, Jamf, ClickFix]
 motifs: [guard-misses-the-act]
-refs: ['https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html']
+refs: ['https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html', 'kb://d88770a51516/kb/technology/security/malware/infostealers/fa3d82e9.md', 'kb://d88770a51516/kb/technology/security/techniques/browser-session-theft/aceb2a13.md', 'kb://d88770a51516/kb/technology/security/patterns/a63d0ff1.md']
 ---
 # Enabling CDP in a live Chromium process sidesteps cookie replay protections
 

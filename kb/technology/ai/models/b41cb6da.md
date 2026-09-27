@@ -1,9 +1,10 @@
 ---
 type: synthesis
 domain: [AI models, AI safety, AI research, alignment]
-confidence: 0.88
+confidence: 0.75
 sources: 1
 evidence_weight: 0.7361477572559367
+origin: distilled
 entities: [OpenAI, GPT-5.5, Codex, Anthropic, Claude Mythos, MIT, Nvidia]
 refs: [kb/technology/ai/models/openai/76076e0a.md, kb/technology/ai/models/e35cd1be.md, kb/technology/ai/research/theory/027ccc6f.md, kb/technology/ai/research/theory/f64b961e.md, kb/technology/ai/infrastructure/compute/aa4e1d4b.md]
 ---

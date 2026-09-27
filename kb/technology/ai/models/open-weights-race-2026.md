@@ -1,9 +1,10 @@
 ---
 type: synthesis
 domain: [ai, open-weights, agentic-ai, ai-economics]
-confidence: 0.8
+confidence: 0.75
 sources: 2
 evidence_weight: 0.7389033942558747
+origin: distilled
 entities: [Z.ai, Zhipu AI, GLM-5.1, GLM-5.2, Meta, Muse Spark, Nvidia, Nemotron 3 Super]
 refs: ['kb://d88770a51516/kb/technology/ai/models/89c7474c.md', 'kb://d88770a51516/kb/technology/ai/models/2b2346ce.md']
 ---

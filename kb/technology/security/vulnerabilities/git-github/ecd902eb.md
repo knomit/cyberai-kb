@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [security, software-supply-chain]
-confidence: 0.8
+confidence: 0.7
 sources: 0
 entities: [GitHub, Git]
 motifs: [identifier-is-not-canonical]

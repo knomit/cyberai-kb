@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [AI infrastructure, cloud computing, compute]
-confidence: 0.78
+confidence: 0.7
 sources: 0
 entities: [Microsoft, OpenAI, Oracle, Crusoe Energy, Stargate]
 refs: ['https://mail.google.com/mail/u/0/#inbox/19d24fdb9a90479b']

@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [ai, society, work, productivity, engineering]
-confidence: 0.95
+confidence: 0.8
 sources: 1
 entities: [Andrew Ng, DeepLearning.AI]
 motifs: [constraint-relocates-when-relieved]

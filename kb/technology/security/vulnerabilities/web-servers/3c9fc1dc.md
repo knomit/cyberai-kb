@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [cybersecurity, vulnerabilities, web-servers, dos]
-confidence: 0.95
+confidence: 0.85
 sources: 1
 entities: [HTTP/2 Bomb, HPACK, NGINX, Apache HTTPD, Cloudflare Pingora, Envoy, Microsoft IIS]
 motifs: [limit-measures-wrong-quantity]

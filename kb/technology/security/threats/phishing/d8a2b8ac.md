@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [security, phishing]
-confidence: 0.8
+confidence: 0.75
 sources: 0
 entities: [Microsoft, Calendly, Node.js]
 refs: ['https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html']

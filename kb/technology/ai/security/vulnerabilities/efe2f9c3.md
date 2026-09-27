@@ -1,7 +1,7 @@
 ---
 type: observation
 domain: [AI security, vulnerabilities, AI infrastructure]
-confidence: 0.92
+confidence: 0.8
 sources: 0
 entities: [LiteLLM, BerriAI]
 motifs: [disclosure-outpaces-patching]
